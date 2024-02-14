@@ -1,4 +1,13 @@
-# 0.1.0 (2024-02-14)
+# [0.2.0](https://github.com/DALIMOORE/cicd1/compare/v0.1.0...v0.2.0) (2024-02-14)
+
+
+### Features
+
+* upload artifact ([b8de122](https://github.com/DALIMOORE/cicd1/commit/b8de122ade0737c993a511db1846326cf07a8e82))
+
+
+
+# [0.1.0](https://github.com/DALIMOORE/cicd1/compare/c24b66210e4f228377c146d35e2f5a756b90e2ec...v0.1.0) (2024-02-14)
 
 
 ### Bug Fixes
