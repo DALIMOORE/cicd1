@@ -41,7 +41,7 @@ jobs:
     - name: Build with Gradle Wrapper
       run: ./gradlew build
     - name: Tag artifact
-      run: mv build/libs/greetings-ci.jar build/libs/greetings-ci-${{ github.event.inputs.myVersion || steps.changelog.outputs.version }}.jar
+      run: mv build/libs/cicd1.jar build/libs/cicd1-${{ github.event.inputs.myVersion || steps.changelog.outputs.version }}.jar
     
     - name: Upload Artifact
       uses: actions/upload-artifact@v4.3.0
