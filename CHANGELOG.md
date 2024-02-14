@@ -1,3 +1,12 @@
+# [0.5.0](https://github.com/DALIMOORE/cicd1/compare/v0.4.0...v0.5.0) (2024-02-14)
+
+
+### Features
+
+* version artifact ([9d0250e](https://github.com/DALIMOORE/cicd1/commit/9d0250eda3ff562e5a76d658c8d8e6816c0284ba))
+
+
+
 # [0.4.0](https://github.com/DALIMOORE/cicd1/compare/v0.3.0...v0.4.0) (2024-02-14)
 
 
