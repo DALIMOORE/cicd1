@@ -1,3 +1,12 @@
+# [0.7.0](https://github.com/DALIMOORE/cicd1/compare/v0.6.0...v0.7.0) (2024-02-14)
+
+
+### Features
+
+* add testing to pipeline ([30e2502](https://github.com/DALIMOORE/cicd1/commit/30e2502e6f2ebe2291757a05f3402af7a3d09112))
+
+
+
 # [0.6.0](https://github.com/DALIMOORE/cicd1/compare/v0.5.0...v0.6.0) (2024-02-14)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * version artifact ([62d90b3](https://github.com/DALIMOORE/cicd1/commit/62d90b34678bd7f5c894099f827dcec3b3038e98))
-
-
-
-# [0.2.0](https://github.com/DALIMOORE/cicd1/compare/v0.1.0...v0.2.0) (2024-02-14)
-
-
-### Features
-
-* upload artifact ([b8de122](https://github.com/DALIMOORE/cicd1/commit/b8de122ade0737c993a511db1846326cf07a8e82))
 
 
 
